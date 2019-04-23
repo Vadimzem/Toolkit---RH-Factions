@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <TwitchToolkit.Incidents.StoreIncidentSimple>
+    <defName>TaskForce141</defName>
+    <label>task force 141</label>
+    <abbreviation>taskforce141</abbreviation>
+    <cost>1500</cost>
+    <eventCap>2</eventCap>
+    <incidentHelper>Toolkit_RH_Factions.TaskForce141</incidentHelper>
+    <karmaType>Good</karmaType>
+  </TwitchToolkit.Incidents.StoreIncidentSimple>
+
+  <TwitchToolkit.Incidents.StoreIncidentSimple>
+    <defName>TheGhosts</defName>
+    <label>the ghosts</label>
+    <abbreviation>theghosts</abbreviation>
+    <cost>1500</cost>
+    <eventCap>2</eventCap>
+    <incidentHelper>Toolkit_RH_Factions.TheGhosts</incidentHelper>
+    <karmaType>Good</karmaType>
+  </TwitchToolkit.Incidents.StoreIncidentSimple>
+
+  <TwitchToolkit.Incidents.StoreIncidentSimple>
+    <defName>UmbraCompany</defName>
+    <label>umbra company</label>
+    <abbreviation>umbracompany</abbreviation>
+    <cost>1500</cost>
+    <eventCap>2</eventCap>
+    <incidentHelper>Toolkit_RH_Factions.UmbraCompany</incidentHelper>
+    <karmaType>Good</karmaType>
+  </TwitchToolkit.Incidents.StoreIncidentSimple>
+
+  <TwitchToolkit.Incidents.StoreIncidentSimple>
+    <defName>MSF</defName>
+    <label>militaires sans frontières</label>
+    <abbreviation>MSF</abbreviation>
+    <cost>1500</cost>
+    <eventCap>2</eventCap>
+    <incidentHelper>Toolkit_RH_Factions.MSF</incidentHelper>
+    <karmaType>Good</karmaType>
+  </TwitchToolkit.Incidents.StoreIncidentSimple>
+</Defs>
